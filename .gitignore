@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# renaming temporary files
+*renaming_powershell.txt
+*.xlsx
+*.csv
+
 # Pytest cache
 .pytest_cache/
 
