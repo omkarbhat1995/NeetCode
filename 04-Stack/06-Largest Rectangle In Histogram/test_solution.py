@@ -28,7 +28,7 @@ sol = Solution()
     # Complex Landscapes
     ([1, 2, 2, 1], 4),                                      # Symmetrical bump
     ([4, 2, 0, 3, 2, 4, 3, 4], 10),                         # Multiple jagged peaks and valleys
-
+    ([5,5,2,0,0,11,0,5,5,2],11),
     # Extreme Constraints (Max Length & Max Heights)
     ([1000] * 1000, 1000000),                               # Max elements with max height limit
 ])
